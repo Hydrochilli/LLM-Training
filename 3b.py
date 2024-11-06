@@ -7,7 +7,7 @@ model_name ="ibm-granite/granite-3b-code-base-2k"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-# Assuming you have structured data in JSONL format with 'prompt' and 'completion' fields
+
 dataset = load_dataset("json", data_files="path_to_your_data.jsonl")
 train_dataset = dataset["train"].map(lambda x: tokenizer(x["prompt"], padding=True, truncation=True, return_tensors="pt"))
 
