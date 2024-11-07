@@ -8,7 +8,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
 
-dataset = load_dataset("json", data_files="path_to_your_data.jsonl")
+dataset = load_dataset("json", data_files="./sample_invoices.jsonl")
 train_dataset = dataset["train"].map(lambda x: tokenizer(x["prompt"], padding=True, truncation=True, return_tensors="pt"))
 
 training_args = TrainingArguments(

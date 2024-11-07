@@ -1,0 +1,29 @@
+{"prompt": "Extract the customer number from the following invoice: 'Invoice number: 100-13, Customer number: 2, Total amount due: 744.00 GBP'", "completion": "2"}
+{"prompt": "What is the invoice date? 'Invoice date: 24/08/2021, Due date: 23/09/2021'", "completion": "24/08/2021"}
+{"prompt": "Identify the invoice number in this text: 'Invoice number: 100-14, Total amount due: 525.00 GBP'", "completion": "100-14"}
+{"prompt": "Find the total amount due on this invoice: 'Total excl. VAT: 435.00 GBP, VAT 20%: 90.00 GBP, Total amount due: 525.00 GBP'", "completion": "525.00 GBP"}
+{"prompt": "Extract the VAT amount from the invoice: 'Total excl. VAT: 620.00 GBP, VAT 20%: 124.00 GBP, Total amount due: 744.00 GBP'", "completion": "124.00 GBP"}
+
+{"prompt": "Extract the customer number from the following invoice: 'Invoice number: 200-22, Customer number: 5, Total amount due: 890.00 GBP'", "completion": "5"}
+{"prompt": "What is the invoice date? 'Invoice date: 15/07/2021, Due date: 15/08/2021'", "completion": "15/07/2021"}
+{"prompt": "Identify the invoice number in this text: 'Invoice number: 200-22, Total amount due: 890.00 GBP'", "completion": "200-22"}
+{"prompt": "Find the total amount due on this invoice: 'Total excl. VAT: 742.00 GBP, VAT 20%: 148.00 GBP, Total amount due: 890.00 GBP'", "completion": "890.00 GBP"}
+{"prompt": "Extract the VAT amount from the invoice: 'Total excl. VAT: 742.00 GBP, VAT 20%: 148.00 GBP, Total amount due: 890.00 GBP'", "completion": "148.00 GBP"}
+
+{"prompt": "Extract the customer number from the following invoice: 'Invoice number: 300-45, Customer number: 9, Total amount due: 1200.00 GBP'", "completion": "9"}
+{"prompt": "What is the invoice date? 'Invoice date: 01/10/2021, Due date: 01/11/2021'", "completion": "01/10/2021"}
+{"prompt": "Identify the invoice number in this text: 'Invoice number: 300-45, Total amount due: 1200.00 GBP'", "completion": "300-45"}
+{"prompt": "Find the total amount due on this invoice: 'Total excl. VAT: 1000.00 GBP, VAT 20%: 200.00 GBP, Total amount due: 1200.00 GBP'", "completion": "1200.00 GBP"}
+{"prompt": "Extract the VAT amount from the invoice: 'Total excl. VAT: 1000.00 GBP, VAT 20%: 200.00 GBP, Total amount due: 1200.00 GBP'", "completion": "200.00 GBP"}
+
+{"prompt": "Extract the customer number from the following invoice: 'Invoice number: 400-33, Customer number: 3, Total amount due: 660.00 GBP'", "completion": "3"}
+{"prompt": "What is the invoice date? 'Invoice date: 08/06/2021, Due date: 08/07/2021'", "completion": "08/06/2021"}
+{"prompt": "Identify the invoice number in this text: 'Invoice number: 400-33, Total amount due: 660.00 GBP'", "completion": "400-33"}
+{"prompt": "Find the total amount due on this invoice: 'Total excl. VAT: 550.00 GBP, VAT 20%: 110.00 GBP, Total amount due: 660.00 GBP'", "completion": "660.00 GBP"}
+{"prompt": "Extract the VAT amount from the invoice: 'Total excl. VAT: 550.00 GBP, VAT 20%: 110.00 GBP, Total amount due: 660.00 GBP'", "completion": "110.00 GBP"}
+
+{"prompt": "Extract the customer number from the following invoice: 'Invoice number: 500-19, Customer number: 4, Total amount due: 1440.00 GBP'", "completion": "4"}
+{"prompt": "What is the invoice date? 'Invoice date: 20/09/2021, Due date: 20/10/2021'", "completion": "20/09/2021"}
+{"prompt": "Identify the invoice number in this text: 'Invoice number: 500-19, Total amount due: 1440.00 GBP'", "completion": "500-19"}
+{"prompt": "Find the total amount due on this invoice: 'Total excl. VAT: 1200.00 GBP, VAT 20%: 240.00 GBP, Total amount due: 1440.00 GBP'", "completion": "1440.00 GBP"}
+{"prompt": "Extract the VAT amount from the invoice: 'Total excl. VAT: 1200.00 GBP, VAT 20%: 240.00 GBP, Total amount due: 1440.00 GBP'", "completion": "240.00 GBP"}
